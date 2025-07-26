@@ -51,8 +51,8 @@ You can also adjust the angle range of the 3 layers using the *inspector* window
 
 #### Effect Illustration
 
-The Unity internal adjustment interface is shown as follows: 
+The Unity internal adjustment interface: 
 ![image](src/unity.png)
-The binocular display effect is shown as follows: 
+Binocular display effect: 
 ![image](src/bino.png)
 
