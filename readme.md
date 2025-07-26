@@ -11,10 +11,6 @@ In our prior work, we proposed Dominant-Eye-Aware foveated rendering optimized w
 This treats eccentricity as a new variable, allowing users to select eccentricity sets tailored to their eyes and supporting asymmetric configurations between the two eyes. Experimental results demonstrate significant improvements in rendering speed over our previous method while maintaining perceptual quality. Additionally, we found that individual differences and scene texture complexity significantly influence the eccentricity settings.
 This work offers new insights into perceptual differences in binocular vision and contributes to optimizing virtual reality experiences.
 
-## Pipeline Illustration
-
-![image](src/overview.png)
-
 ## Install
 
 * Clone this repo and open the project with Unity 2020.3.8f1.
@@ -52,4 +48,11 @@ Adjust $e_1,e_2$ in the inspector window, $e_3$ is fixed to 45.0 degrees.
 Or use the *inspector* window of *DisplayL* and *DisplayR* for finer adjustments.
 
 You can also adjust the angle range of the 3 layers using the *inspector* window of *DisplayL* and *DisplayR*.
+
+#### Effect Illustration
+
+The Unity internal adjustment interface is shown as follows: 
+![image](src/unity.png)
+The binocular display effect is shown as follows: 
+![image](src/bino.png)
 
