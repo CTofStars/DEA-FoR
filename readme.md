@@ -1,6 +1,7 @@
 # Dominant-Eye-Aware Asymmetric Foveated Rendering for Virtual Reality
 
 Paper: https://ieeexplore.ieee.org/abstract/document/11106279
+
 Unity Demo Code of DEA-FoR (TVCG 2025). Tested on Unity 2020.3.8f1 and SteamVR v2.7.3.
 
 ![image](src/teaser.png)
